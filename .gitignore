@@ -66,6 +66,7 @@ fastlane/readme.md
 
 .gradle
 .idea
+.cxx
 **/*.iml
 local.properties
 build
