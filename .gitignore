@@ -66,6 +66,7 @@ fastlane/readme.md
 
 .gradle
 .idea
+# AS 3.5 open jni support
 .cxx
 **/*.iml
 local.properties
